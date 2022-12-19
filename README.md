@@ -5,7 +5,7 @@
 * Bowling Game kata ✅
 * String Calculator Kata  ✅
 * Tennis Match Kata
-* FizzBuzz Kata
+* FizzBuzz Kata ✅
 * The Gilded Rose Kata
 * 99 Bottles Kata
 
