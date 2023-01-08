@@ -6,8 +6,8 @@
 * String Calculator Kata  ✅
 * Tennis Match Kata
 * FizzBuzz Kata ✅
-* The Gilded Rose Kata
-* 99 Bottles Kata
+* The Gilded Rose Kata ✅
+* 99 Bottles Kata ✅
 
 
 ### Kata rule https://codingdojo.org/kata/
